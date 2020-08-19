@@ -43,6 +43,7 @@ module.exports = function(grunt) {
                 }
             }
         },
+        
         watch: {
             scripts: {
                 files: ['js/<%= pkg.name %>.js'],
