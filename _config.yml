@@ -1,6 +1,6 @@
 # Site settings
 title: Jevis's Blog
-SEOTitle: 何奏捷的博客 | JH Blog
+SEOTitle: Blog of JH
 header-img: img/post-bg-desk.jpg
 email: jevis_hoo@163.com
 description: "More failure more experience"
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 9052d881b2b41d10c9e5                            #生成的clientID
+  clientSecret: 8d545dbbd2869d8935c5424ce48d4e17fb8cfc4b    #生成的clientSecret
   repo: jevishoo.github.io    #仓库名称
   owner: jevishoo    #github用户名
   admin: jevishoo
