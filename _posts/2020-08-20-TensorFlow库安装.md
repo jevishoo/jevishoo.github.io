@@ -22,7 +22,7 @@ tags:
 pip install tensorflow-gpu=1.13.1
 ```
 ### 4. tensorflow测试
-#### tensorflow多GPU运行代码测试
+#### · tensorflow多GPU运行代码测试
 ```python
 import tensorflow as tf
 tf.__version__  # 查看tensorflow版本
