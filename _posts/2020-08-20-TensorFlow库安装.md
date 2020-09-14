@@ -19,7 +19,7 @@ tags:
 ### 3. tensorflow 1.13.1安装 
 #### · pip工具下载tensorflow-gpu版本，下载命令如下所示：
 ```python
-pip install tensorflow-gpu=1.13.1
+pip install tensorflow-gpu==1.13.1
 ```
 ### 4. tensorflow测试
 #### · tensorflow多GPU运行代码测试
