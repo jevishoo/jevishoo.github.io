@@ -80,3 +80,21 @@ WantedBy=multi-user.target
 `service jupyter start`
 
 另外可用 `service jupyter status` 查看进程信息，`service jupyter stop` 停止进程
+
+
+### 3.Jupyter插件
+```shell script
+
+jupyter labextension install @jupyterlab/toc
+jupyter labextension install @krassowski/jupyterlab-lsp
+jupyter labextension install @krassowski/jupyterlab_go_to_definition
+jupyter labextension install jupyterlab-drawio
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+jupyter labextension install @jupyterlab/geojson-extension
+jupyter labextension install jupyterlab-plotly
+jupyter labextension install @mflevine/jupyterlab_html
+jupyter labextension install @jupyterlab/latex
+jupyter labextension install jupyterlab-tailwind-theme
+jupyter labextension install jupyterlab-interactive-dashboard-editor
+
+```
