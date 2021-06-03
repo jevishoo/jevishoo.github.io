@@ -2,7 +2,7 @@
 layout:     post
 title:      Kotlin 泛型中的 in 和 out
 subtitle:   与 Java 泛型对比
-date:       2020-06-01
+date:       2021-06-01
 author:     JH
 header-img: img/post-bg-rwd.jpg
 catalog: true
