@@ -777,6 +777,8 @@ private static Event downEvent(State state) {
 
 关于 `State` 和 `Event` 的关系，说明图如下所所示：
 
+![img_lifecycle](https://github.com/jevishoo/jevishoo.github.io/blob/master/img/android_lifecycle.png)
+
 ![image-20210719175718722](../img/android_lifecycle.png)
 
 
